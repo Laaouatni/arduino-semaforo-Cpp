@@ -1,5 +1,11 @@
 # arduino-semaforo-Cpp
 semaforo programmato tramite c++ di arduino
+- 6 led
+  - 2 verdi
+  - 2 gialli
+  - 2 rossi
+- 1 componente di Suono.
+- 1 motore di vibrazione.
 
 https://www.tinkercad.com/things/8twWQN7VJYa
 
